@@ -3,6 +3,9 @@ Implementation of six different Artificial Intelligences representing the mental
 
 # Usage
 Step 1: Install Tkinter (for Python2) if not already present: https://tkdocs.com/tutorial/install.html
+
 Step 2: Invoke Play_Tic_Tac_Toe.py in Python2
+
 Step 3: Enjoy the 14 game tournament! Keep track of what you percive as the playing ability level of your AI opponent.
+
 Step 4: Check out the results file to compare your analysis with the actual experiment!
